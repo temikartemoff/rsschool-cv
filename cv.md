@@ -28,4 +28,4 @@ I have average skills in working with code, took courses on the platform stepik.
 
 ## **English**
 
-**A1**, Very simple, everyday phrases, Carefully formulated, slow speech with long pauses.
+**A1**, Very simple, everyday phrases, Carefully formulated, slow speech with long pauses!
