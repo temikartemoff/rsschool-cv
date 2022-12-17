@@ -1,0 +1,2 @@
+https://temikartemoff.github.io/rsschool-cv/
+https://temikartemoff.github.io/rsschool-cv/cv
