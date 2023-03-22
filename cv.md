@@ -28,14 +28,14 @@ I've now taken the RS School Javascript/Frontend 2022Q4 course and enrolled in t
 * VS Code
 * Chrome Dev Tools
 * Figma
-* Pixrlmator Pro
+* Pixelmator Pro
 * Photoshop
 * FinalCut Pro
 * iA Writer
 
 ## **Portfolio**
 
-[Portfolio](http://temikartemoff.pro)
+[Freelancer Portfolio](http://temikartemoff.pro)
 
 ## **Code Examples**
 
@@ -66,4 +66,4 @@ function isPrime(num) {
 ## **English**
 
 + **A1 (Beginner и Elementary)**
-+ + **A2 (Pre-Intermediate)** in progress...
++ **A2 (Pre-Intermediate)** in progress...
