@@ -66,3 +66,4 @@ function isPrime(num) {
 ## **English**
 
 + **A1 (Beginner и Elementary)**
++ + **A2 (Pre-Intermediate)** in progress...
